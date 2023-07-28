@@ -10,6 +10,7 @@ public class Name {
 			System.out.println("May I Know Your Name Please?\n");
 			String name=sc.nextLine();
 			System.out.println("Hello !!" +name);
+			System.out.println("Hello sohag !!");
 		}
 
 	}
